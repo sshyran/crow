@@ -98,7 +98,7 @@
     <h2>Setup & download</h2>
     <div class="spacer quarter"></div>
     <p class="lead">
-      Crow is just a regular .css-file, include in in your <head>-tag and you are ready to go! <br />Fly functionality is not working properly for IE8 therefore <a href="?download=crow-2.0/crow-ie.js">crow-ie.js</a> is required.
+      Crow is just a regular .css-file, include in in your <?=htmlspecialchars('<head>');?>-tag and you are ready to go! <br />Fly functionality is not working properly for IE8 therefore <a href="?download=crow-2.0/crow-ie.js">crow-ie.js</a> is required.
     </p>
     <div class="spacer half"></div>
 
