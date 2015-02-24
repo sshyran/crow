@@ -7,7 +7,7 @@
 	          <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
 	        </span>
 	      </a>
-	      <span class="copyright">Copyright © <?=date('Y')?> Kim Korte.<br /> All rights reserved</span>
+	      <span class="copyright">Copyright © <?=date('Y')?> Kim Korte<br /> All rights reserved<br /></span>
 	    </div>
 	    <div class="ws-4 hide-smartphone">
 	    	<h4>The developer</h4>
