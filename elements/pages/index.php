@@ -150,7 +150,7 @@
       <div class="ws-6">
         <ul>
           <li>For semantic markup it's recommended to use the .styl file and call stylus "@extend .crow .ws-5" (span 5/12 as an example)</li>
-          <li>The classes to keep in mind when using  is the following (also see Usage): .nest, .crow, .fly, .up, .down, .ws-{1to12}, .w-{1to100}, .no-gutter</li>
+          <li>The classes to keep in mind when working with Crow is (also see Usage): .nest, .crow, .fly, .up, .down, .ws-{1to12}, .w-{1to100} & .no-gutter</li>
         </ul>
       </div>
     </div>
