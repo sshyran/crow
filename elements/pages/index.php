@@ -3,6 +3,9 @@
     <div class="pull-right hide-smartphone">
       <ul class="inline social-shares">
         <li>
+          <iframe src="https://ghbtns.com/github-btn.html?user=kkortes&repo=crow&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+        </li>
+        <li>
           <!-- Place this tag where you want the +1 button to render. -->
           <div class="g-plusone" data-size="medium" data-href="http://getcrow.eu"></div>
         </li>
