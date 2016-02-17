@@ -19,6 +19,13 @@ $percent-widths-iterations = 100
 $unit-widths-iterations = 12
 $gutter = 15
 
+*,
+*:before,
+*:after
+  box-sizing: inherit // Works for IE8+
+html
+  box-sizing: border-box
+
 auto-widths(nums)
   for i in 1..nums
     > *:first-child:nth-last-child({i}),
